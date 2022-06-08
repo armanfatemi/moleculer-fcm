@@ -8,6 +8,8 @@
 
 A module for handling Firebase Cloud Messaging
 
+This is a work in progress, don't use this in production
+
 ## Features
 
 ## Install

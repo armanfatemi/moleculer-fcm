@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/armanfatemi/moleculer-fcm.git"
+    "url": "git+https://github.com/armanfatemi/moleculer-fcm.git"
   },
   "author": "Arman",
   "license": "MIT",
@@ -54,5 +54,17 @@
   },
   "engines": {
     "node": ">= 10.x.x"
+  },
+  "bugs": {
+    "url": "https://github.com/armanfatemi/moleculer-fcm/issues"
+  },
+  "homepage": "https://github.com/armanfatemi/moleculer-fcm#readme",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "firebase-admin": "^10.2.0"
   }
 }
